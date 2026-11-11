@@ -20,11 +20,4 @@ Construir, em grupos, um protótipo para organizar os dados de animais e respons
 
 **Importante:** as verificações do site identificam elementos esperados no código, mas não executam Python e não substituem os testes reais no Colab.
 
-## Como publicar no GitHub Pages
 
-1. Crie um repositório público no GitHub.
-2. Coloque `index.html`, `styles.css` e `app.js` na raiz do repositório.
-3. Em **Settings > Pages**, escolha **Deploy from a branch**, `main` e `/ (root)`.
-4. Salve e aguarde o GitHub disponibilizar a URL da página.
-
-Não é necessário instalar bibliotecas, nem configurar back-end. O progresso fica salvo no armazenamento local do navegador em uso. A página não envia as respostas a um servidor.
